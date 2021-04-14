@@ -1,7 +1,7 @@
 name:Furfsky Reborn - Full
 author:Furfsky Reborn Team
 description:Continuation of the furfsky+ texture pack\ndiscord.gg/fsr
-icon:NULL
+icon:FurfSkyFull.png
 version:v1.2.5
 req-optifine:TRUE
 download:https://furfsky.github.io/files/v1.2.5/%C2%A7r%C2%A7lFurfSky%20%C2%A76%C2%A7lReborn%20%C2%A78%C2%A7lFL%20%C2%A78%C2%A7l[%C2%A771.2.5%C2%A78%C2%A7l].zip
@@ -10,7 +10,7 @@ efn:§r§lFurfSky §6§lReborn §8§lFL §8§l[§71.2.5§8§l].zip
 name:Furfsky Reborn - Overlay
 author:Furfsky Reborn Team
 description:Continuation of the furfsky+ texture pack\ndiscord.gg/fsr
-icon:NULL
+icon:FurfSkyOverlay.png
 version:v1.2.5
 req-optifine:TRUE
 download:https://furfsky.github.io/files/v1.2.5/%C2%A7r%C2%A7lFurfSky%20%C2%A76%C2%A7lReborn%20%C2%A78%C2%A7lOV%20%C2%A78%C2%A7l[%C2%A771.2.5%C2%A78%C2%A7l].zip
@@ -19,7 +19,7 @@ efn:§r§lFurfSky §6§lReborn §8§lOV §8§l[§71.2.5§8§l].zip
 name:xCyni's Skyblock Pack - Full
 author:xCyni
 description:NULL
-icon:NULL
+icon:xCynisPack.png
 version:v2
 req-optifine:TRUE
 download:https://download1074.mediafire.com/rakwbh12vxog/fngeskpbjy63xke/xCyni%5C%27s+Skyblock+Pack+-+v2+Full.zip
@@ -28,7 +28,7 @@ efn:xCynis Skyblock Pack - v2 Full.zip
 name:xCyni's Skyblock Pack - Overlay
 author:xCyni
 description:NULL
-icon:NULL
+icon:xCynisPack.png
 version:v2
 req-optifine:TRUE
 download:https://download849.mediafire.com/rok07y5oijvg/g7x5kvk6grvgss5/xCyni%5C%27s+Skyblock+Pack+-+v2+Overlay.zip
@@ -37,7 +37,7 @@ efn:xCynis Skyblock Pack - v2 Overlay.zip
 name:RNBW+ Resource Pack
 author:rainbowcraft2
 description:NULL
-icon:NULL
+icon:RNBW+.png 
 version:v0.5.0
 req-optifine:TRUE
 download:https://download2170.mediafire.com/lr25qjeucz5g/3wy8qa9345des98/RNBW%2B+v0.5.zip
