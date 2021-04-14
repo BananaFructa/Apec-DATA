@@ -1,1 +1,1 @@
-data-base:https://raw.githubusercontent.com/BananaFructa/Apec-DATA/main/TexturePackRegistry/01
+data-base:https://cdn.jsdelivr.net/gh/BananaFructa/Apec-DATA@main/TexturePackRegistry/01.txt
