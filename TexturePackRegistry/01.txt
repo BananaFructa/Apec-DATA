@@ -71,8 +71,8 @@ download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/
 efn:RNBW+ v0.5.zip
 
 name:Mod Cruel's Pack - Overlay
-author:[Mod] Cruel
-description:A continuation of where Steinblock left off with the goal to covert every custom SB item to a custom texture/model.  Also, Discord Dark Mode theme users rejoice!
+author:ModCruel, Seenseal, Death2you_972
+description:Continuation of where Steinblock left off.  Discord Dark Mode theme users rejoice! [659/1100]
 icon:modCruelOverlay.png
 version:v1.3.4
 req-optifine:TRUE
@@ -87,6 +87,15 @@ version:v3.5.1
 req-optifine:TRUE
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Steinblock%20v3.5.1.zip
 efn:Steinblock v3.5.1.zip
+
+name:Vanilla+
+author:TBlazeWarriorT
+description:A vanilla-styled pack for Hypixel SkyBlock
+icon:vanilla+.png
+version:v1.44-2
+req-optifine:TRUE
+download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Vanilla+_SkyBlock_R.P._v1.44-2.zip
+efn:Vanilla+ SkyBlock R.P. v1.44-2.zip
 
 name:Extoplasm's Skyblock Pack
 author:Ectoplasm89
@@ -105,3 +114,12 @@ version:v1.3
 req-optifine:TRUE
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/DarkH%20Overlay%20v1.3.zip
 efn:DarkH Overlay v1.3.zip
+
+name:Enchanted Book Overlays
+author:nightlibra
+description:Custom Vanilla-Style Enchanted Books for Hypixel Skyblock
+icon:darkhoverlay.png
+version:NULL
+req-optifine:TRUE
+download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Skyblock_Enchanted_Books.zip
+efn:Skyblock_Enchanted_Books.zip
