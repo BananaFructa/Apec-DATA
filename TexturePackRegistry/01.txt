@@ -79,6 +79,15 @@ req-optifine:TRUE
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Steinblock%20v3.5.1.zip
 efn:Steinblock v3.5.1.zip
 
+name:Extoplasm's Skyblock Pack
+author:Ectoplasm89
+description:NULL
+icon:ectoplasmsskyblockpack.png
+version:NULL
+req-optifine:TRUE
+download:
+efn:Steinblock v3.5.1.zip
+
 
 name:DarkH Overlay
 author:DarkCheese_
