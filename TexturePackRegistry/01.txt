@@ -70,11 +70,11 @@ req-optifine:TRUE
 download:https://download2170.mediafire.com/lr25qjeucz5g/3wy8qa9345des98/RNBW%2B+v0.5.zip
 efn:RNBW+ v0.5.zip
 
-name:Ectoplasm's Skyblock Resource Pack
-author:rainbowcraft2
-description:NULL
-icon:RNBW+.png 
-version:v0.5.0
+name:Steinblock
+author:Steinente, EnteStein
+description:MIX Resource Pack
+icon:steinblock.png
+version:v3.5.1
 req-optifine:TRUE
-download:https://download2170.mediafire.com/lr25qjeucz5g/3wy8qa9345des98/RNBW%2B+v0.5.zip
+download:
 efn:RNBW+ v0.5.zip
