@@ -1,22 +1,22 @@
 name:Furfsky Reborn - Full
 author:Furfsky Reborn Team
 description:Continuation of the furfsky+ texture pack\ndiscord.gg/fsr
-icon:FurfSkyFull.png
-version:v1.2.5
+icon:furfFull1.2.6.png
+version:v1.2.6
 req-optifine:TRUE
 req-NEU:TRUE
-download:https://furfsky.github.io/files/v1.2.5/%C2%A7r%C2%A7lFurfSky%20%C2%A76%C2%A7lReborn%20%C2%A78%C2%A7lFL%20%C2%A78%C2%A7l[%C2%A771.2.5%C2%A78%C2%A7l].zip
-efn:§r§lFurfSky §6§lReborn §8§lFL §8§l[§71.2.5§8§l].zip
+download:https://furfsky.github.io/files/v1.2.6/%C2%A7r%C2%A7lFurfSky%20%C2%A76%C2%A7lReborn%20%C2%A78%C2%A7lFL%20%C2%A78%C2%A7l[%C2%A771.2.6%C2%A78%C2%A7l].zip
+efn:§r§lFurfSky §6§lReborn §8§lFL §8§l[§71.2.6§8§l].zip
 
 name:Furfsky Reborn - Overlay
 author:Furfsky Reborn Team
 description:Continuation of the furfsky+ texture pack\ndiscord.gg/fsr
-icon:FurfSkyOverlay.png
-version:v1.2.5
+icon:furfOv1.2.6.png
+version:v1.2.6
 req-optifine:TRUE
 req-NEU:FALSE
-download:https://furfsky.github.io/files/v1.2.5/%C2%A7r%C2%A7lFurfSky%20%C2%A76%C2%A7lReborn%20%C2%A78%C2%A7lOV%20%C2%A78%C2%A7l[%C2%A771.2.5%C2%A78%C2%A7l].zip
-efn:§r§lFurfSky §6§lReborn §8§lOV §8§l[§71.2.5§8§l].zip
+download:https://furfsky.github.io/files/v1.2.6/%C2%A7r%C2%A7lFurfSky%20%C2%A76%C2%A7lReborn%20%C2%A78%C2%A7lOV%20%C2%A78%C2%A7l[%C2%A771.2.6%C2%A78%C2%A7l].zip
+efn:§r§lFurfSky §6§lReborn §8§lOV §8§l[§71.2.6§8§l].zip
 
 name:Hypixel Skyblock Pack 16x
 author:Packs HQ Team
@@ -104,7 +104,7 @@ description:Continuation of where Steinblock left off.  Discord Dark Mode theme 
 icon:modCruelOverlay.png
 version:v1.3.4
 req-optifine:TRUE
-req-NEU:FALSE
+req-NEU:TRUE
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Mod_Cruel's_Pack_Overlay_v1.3.4.zip
 efn:Steinblock v3.5.1.zip
 
