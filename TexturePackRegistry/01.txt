@@ -151,7 +151,7 @@ efn:DarkH Overlay v1.3.zip
 name:Enchanted Book Overlays
 author:nightlibra
 description:Custom Vanilla-Style Enchanted Books for Hypixel Skyblock
-icon:darkhoverlay.png
+icon:skyblockEnchatedBooksOverlay.png
 version:NULL
 req-optifine:TRUE
 req-NEU:FALSE
