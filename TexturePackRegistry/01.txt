@@ -49,7 +49,7 @@ description:NULL
 icon:xCynisPack.png
 version:v2
 req-optifine:TRUE
-download:https://download1074.mediafire.com/rakwbh12vxog/fngeskpbjy63xke/xCyni%5C%27s+Skyblock+Pack+-+v2+Full.zip
+download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/xCynis%20Skyblock%20Pack%20-%20v2%20Full.zip
 efn:xCynis Skyblock Pack - v2 Full.zip
 
 name:xCyni's Skyblock Pack - Overlay
@@ -58,7 +58,7 @@ description:NULL
 icon:xCynisPack.png
 version:v2
 req-optifine:TRUE
-download:https://download849.mediafire.com/rok07y5oijvg/g7x5kvk6grvgss5/xCyni%5C%27s+Skyblock+Pack+-+v2+Overlay.zip
+download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/xCynis%20Skyblock%20Pack%20-%20v2%20Overlay.zip
 efn:xCynis Skyblock Pack - v2 Overlay.zip
 
 name:RNBW+ Resource Pack
@@ -67,7 +67,7 @@ description:NULL
 icon:RNBW+.png 
 version:v0.5.0
 req-optifine:TRUE
-download:https://download2170.mediafire.com/lr25qjeucz5g/3wy8qa9345des98/RNBW%2B+v0.5.zip
+download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/RNBW%2B%20v0.5.zip
 efn:RNBW+ v0.5.zip
 
 name:Steinblock
@@ -85,7 +85,7 @@ description:NULL
 icon:ectoplasmsskyblockpack.png
 version:NULL
 req-optifine:TRUE
-download:
+download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Extoplasm's%20Skyblock%20Pack.zip
 efn:Steinblock v3.5.1.zip
 
 
