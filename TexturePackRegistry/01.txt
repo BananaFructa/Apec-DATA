@@ -86,7 +86,7 @@ icon:ectoplasmsskyblockpack.png
 version:NULL
 req-optifine:TRUE
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Extoplasm's%20Skyblock%20Pack.zip
-efn:Steinblock v3.5.1.zip
+efn:Extoplasm's Skyblock Pack.zip
 
 
 name:DarkH Overlay
