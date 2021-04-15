@@ -70,6 +70,15 @@ req-optifine:TRUE
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/RNBW%2B%20v0.5.zip
 efn:RNBW+ v0.5.zip
 
+name:Mod Cruel's Pack - Overlay
+author:[Mod] Cruel
+description:A continuation of where Steinblock left off with the goal to covert every custom SB item to a custom texture/model.  Also, Discord Dark Mode theme users rejoice!
+icon:modCruelOverlay.png
+version:v1.3.4
+req-optifine:TRUE
+download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Mod_Cruel's_Pack_Overlay_v1.3.4.zip
+efn:Steinblock v3.5.1.zip
+
 name:Steinblock
 author:Steinente, EnteStein
 description:MIX Resource Pack
@@ -87,7 +96,6 @@ version:NULL
 req-optifine:TRUE
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Extoplasm's%20Skyblock%20Pack.zip
 efn:Extoplasm's Skyblock Pack.zip
-
 
 name:DarkH Overlay
 author:DarkCheese_
