@@ -76,5 +76,5 @@ description:MIX Resource Pack
 icon:steinblock.png
 version:v3.5.1
 req-optifine:TRUE
-download:
-efn:RNBW+ v0.5.zip
+download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Steinblock%20v3.5.1.zip
+efn:Steinblock v3.5.1
