@@ -16,6 +16,33 @@ req-optifine:TRUE
 download:https://furfsky.github.io/files/v1.2.5/%C2%A7r%C2%A7lFurfSky%20%C2%A76%C2%A7lReborn%20%C2%A78%C2%A7lOV%20%C2%A78%C2%A7l[%C2%A771.2.5%C2%A78%C2%A7l].zip
 efn:§r§lFurfSky §6§lReborn §8§lOV §8§l[§71.2.5§8§l].zip
 
+name:Hypiel Skyblock Pack 16x
+author:Packs HQ Team
+description:NULL
+icon:packsHq-x16.png
+version:v13
+req-optifine:TRUE
+download:https://www.packshq.com/assets/packs/v13/v13_16x_Hypixel_Skyblock_Pack.zip
+efn:v13_16x_Hypixel_Skyblock_Pack.zip
+
+name:Hypiel Skyblock Pack 32x
+author:Packs HQ Team
+description:NULL
+icon:packsHq-x32.png
+version:v13
+req-optifine:TRUE
+download:https://www.packshq.com/assets/packs/v13/v13_32x_Hypixel_Skyblock_Pack.zip
+efn:v13_32x_Hypixel_Skyblock_Pack.zip
+
+name:Dark Skyblock UI
+author:Packs HQ Team
+description:NULL
+icon:packsHq-dark.png
+version:v13
+req-optifine:TRUE
+download:https://www.packshq.com/assets/packs/Dark_Skyblock_UI.zip
+efn:Dark_Skyblock_UI.zip
+
 name:xCyni's Skyblock Pack - Full
 author:xCyni
 description:NULL
@@ -35,6 +62,15 @@ download:https://download849.mediafire.com/rok07y5oijvg/g7x5kvk6grvgss5/xCyni%5C
 efn:xCynis Skyblock Pack - v2 Overlay.zip
 
 name:RNBW+ Resource Pack
+author:rainbowcraft2
+description:NULL
+icon:RNBW+.png 
+version:v0.5.0
+req-optifine:TRUE
+download:https://download2170.mediafire.com/lr25qjeucz5g/3wy8qa9345des98/RNBW%2B+v0.5.zip
+efn:RNBW+ v0.5.zip
+
+name:Ectoplasm's Skyblock Resource Pack
 author:rainbowcraft2
 description:NULL
 icon:RNBW+.png 
