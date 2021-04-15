@@ -86,5 +86,5 @@ description:100% good pack definetly should use DO IT :gun:
 icon:darkhoverlay.png
 version:v1.3
 req-optifine:TRUE
-download:https://cdn.discordapp.com/attachments/731490162785386506/817002332130246676/DarkH_Overlay1.3_FIXEED.zip
+download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/DarkH%20Overlay%20v1.3.zip
 efn:DarkH Overlay v1.3.zip
