@@ -22,7 +22,7 @@ description:NULL
 icon:packsHq-x16.png
 version:v13
 req-optifine:TRUE
-download:https://www.packshq.com/assets/packs/v13/v13_16x_Hypixel_Skyblock_Pack.zip
+download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/v13_16x_Hypixel_Skyblock_Pack.zip
 efn:v13_16x_Hypixel_Skyblock_Pack.zip
 
 name:Hypiel Skyblock Pack 32x
@@ -31,7 +31,7 @@ description:NULL
 icon:packsHq-x32.png
 version:v13
 req-optifine:TRUE
-download:https://www.packshq.com/assets/packs/v13/v13_32x_Hypixel_Skyblock_Pack.zip
+download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/v13_32x_Hypixel_Skyblock_Pack.zip
 efn:v13_32x_Hypixel_Skyblock_Pack.zip
 
 name:Dark Skyblock UI
@@ -40,7 +40,7 @@ description:NULL
 icon:packsHq-dark.png
 version:v13
 req-optifine:TRUE
-download:https://www.packshq.com/assets/packs/Dark_Skyblock_UI.zip
+download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Dark_Skyblock_UI.zip
 efn:Dark_Skyblock_UI.zip
 
 name:xCyni's Skyblock Pack - Full
