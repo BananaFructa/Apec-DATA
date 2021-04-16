@@ -55,7 +55,7 @@ icon:xCynisPack.png
 version:v2.0.1
 req-optifine:TRUE
 req-NEU:FALSE
-download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/xCynis_Skyblock Pack_-_v2.0.1_Full.zip
+download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/xCynis_Skyblock_Pack_-_v2.0.1_Full.zip
 efn:xCynis Skyblock Pack - v2 Full.zip
 
 name:xCyni's Skyblock Pack - Overlay
@@ -90,7 +90,7 @@ efn:DwarvenAssets_v1.1.zip
 
 name:Worlds and Beyond
 author:Worlds and Beyond Team
-description:NULL
+description:Worlds and Beyond, a texturepack with unique textures for skyblock items, swords, bows, armors, everything! (Not everything is finished but most are) It also includes a revamped vanilla GUI as well to spice up your gameplay.\nhttps://discord.gg/TXufEf3QaA
 icon:worldsAndBeyond.png
 version:v1.3
 req-optifine:TRUE
