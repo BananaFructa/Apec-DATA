@@ -88,6 +88,16 @@ req-NEU:TRUE
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/DwarvenAssets_v1.1.zip
 efn:DwarvenAssets_v1.1.zip
 
+name:Worlds and Beyond
+author:The Worlds and Beyond Team
+description:NULL
+icon:worldsAndBeyond.png
+version:v1.3
+req-optifine:TRUE
+req-NEU:FALSE
+download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Worlds_and_Beyond_[16x]_-_Release_1.3.zip
+efn:Worlds and Beyond [16x] - Release 1.3.zip
+
 name:RNBW+ Resource Pack
 author:rainbowcraft2
 description:NULL
