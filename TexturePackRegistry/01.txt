@@ -1,38 +1,42 @@
-name:Furfsky Reborn - Full
+name:Furfsky Reborn
 author:Furfsky Reborn Team
 description:Continuation of the furfsky+ texture pack\ndiscord.gg/fsr
 icon:furfFull1.2.6.png
 version:v1.2.6
+tag:Full
 req-optifine:TRUE
 req-NEU:TRUE
 download:https://furfsky.github.io/files/v1.2.6/%C2%A7r%C2%A7lFurfSky%20%C2%A76%C2%A7lReborn%20%C2%A78%C2%A7lFL%20%C2%A78%C2%A7l[%C2%A771.2.6%C2%A78%C2%A7l].zip
 efn:§r§lFurfSky §6§lReborn §8§lFL §8§l[§71.2.6§8§l].zip
 
-name:Furfsky Reborn - Overlay
+name:Furfsky Reborn
 author:Furfsky Reborn Team
 description:Continuation of the furfsky+ texture pack\ndiscord.gg/fsr
 icon:furfOv1.2.6.png
 version:v1.2.6
+tag:Overlay
 req-optifine:TRUE
 req-NEU:FALSE
 download:https://furfsky.github.io/files/v1.2.6/%C2%A7r%C2%A7lFurfSky%20%C2%A76%C2%A7lReborn%20%C2%A78%C2%A7lOV%20%C2%A78%C2%A7l[%C2%A771.2.6%C2%A78%C2%A7l].zip
 efn:§r§lFurfSky §6§lReborn §8§lOV §8§l[§71.2.6§8§l].zip
 
-name:Hypixel Skyblock Pack 16x
+name:Hypixel Skyblock Pack
 author:Packs HQ Team
 description:NULL
 icon:packsHq-x16.png
 version:v13
+tag:16x
 req-optifine:TRUE
 req-NEU:FALSE
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/v13_16x_Hypixel_Skyblock_Pack.zip
 efn:v13_16x_Hypixel_Skyblock_Pack.zip
 
-name:Hypixel Skyblock Pack 32x
+name:Hypixel Skyblock Pack
 author:Packs HQ Team
 description:NULL
 icon:packsHq-x32.png
 version:v13
+tag:32x
 req-optifine:TRUE
 req-NEU:FALSE
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/v13_32x_Hypixel_Skyblock_Pack.zip
@@ -43,26 +47,29 @@ author:Packs HQ Team
 description:NULL
 icon:packsHq-dark.png
 version:v13
+tag:NULL
 req-optifine:TRUE
 req-NEU:FALSE
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Dark_Skyblock_UI.zip
 efn:Dark_Skyblock_UI.zip
 
-name:xCyni's Skyblock Pack - Full
+name:xCyni's Skyblock Pack
 author:xCyni
 description:NULL
 icon:xCynisPack.png
 version:v2.0.1
+tag:Full
 req-optifine:TRUE
 req-NEU:FALSE
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/xCynis_Skyblock_Pack_-_v2.0.1_Full.zip
 efn:xCynis Skyblock Pack - v2 Full.zip
 
-name:xCyni's Skyblock Pack - Overlay
+name:xCyni's Skyblock Pack
 author:xCyni
 description:NULL
 icon:xCynisPack.png
 version:v2.0.1
+tag:Overlay
 req-optifine:TRUE
 req-NEU:FALSE
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/xCynis_Skyblock_Pack_-_v2.0.1_Overlay.zip
@@ -73,6 +80,7 @@ author:MotorGorilla
 description:A vanilla themed Skyblock resource pack
 icon:actuallyAssets1.8.2.png
 version:v1.8.2
+tag:NULL
 req-optifine:TRUE
 req-NEU:FALSE
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/ActuallyAssets_v1.8.2.zip
@@ -83,6 +91,7 @@ author:MotorGorilla
 description:Adds custom textures to Mithril Veins in the Dwarven Mines
 icon:dwarvenAssets1.1.png
 version:v1.1
+tag:NULL
 req-optifine:TRUE
 req-NEU:TRUE
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/DwarvenAssets_v1.1.zip
@@ -93,6 +102,7 @@ author:Worlds and Beyond Team
 description:Worlds and Beyond, a texturepack with unique textures for skyblock items, swords, bows, armors, everything! (Not everything is finished but most are) It also includes a revamped vanilla GUI as well to spice up your gameplay.\nhttps://discord.gg/TXufEf3QaA
 icon:worldsAndBeyond.png
 version:v1.3
+tag:NULL
 req-optifine:TRUE
 req-NEU:FALSE
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Worlds_and_Beyond_[16x]_-_Release_1.3.zip
@@ -103,16 +113,18 @@ author:VortFX
 description:An animated texture pack that is mainly focused on weapons. All textures have been made with quality in mind, each with an unique and creative look. The pack also includes a HUD as well as some changes to the skyblock GUI.
 icon:eanchatedSkyblockTextures.png
 version:v1.1
+tag:Full
 req-optifine:TRUE
 req-NEU:FALSE
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Enhanced_Skyblock_Textures_v1.1.zip
 efn:Enhanced_Skyblock_Textures_v1.1.zip
 
-name:Enhanced Skyblock Textures - Overlay
+name:Enhanced Skyblock Textures
 author:VortFX
 description:An animated texture pack that is mainly focused on weapons. All textures have been made with quality in mind, each with an unique and creative look. The pack also includes a HUD as well as some changes to the skyblock GUI.
 icon:eanchatedSkyblockTextures.png
 version:v1.1
+tag:Overlay
 req-optifine:TRUE
 req-NEU:FALSE
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Enhanced_Skyblock_Textures_v1.1_Overlay.zip
@@ -123,6 +135,7 @@ author:rainbowcraft2
 description:NULL
 icon:RNBW+.png 
 version:v0.5.0
+tag:NULL
 req-optifine:TRUE
 req-NEU:FALSE
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/RNBW%2B%20v0.5.zip
@@ -133,6 +146,7 @@ author:ModCruel, Seenseal, Death2you_972
 description:Continuation of where Steinblock left off.  Discord Dark Mode theme users rejoice! [659/1100]
 icon:modCruelOverlay.png
 version:v1.3.4
+tag:NULL
 req-optifine:TRUE
 req-NEU:TRUE
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Mod_Cruel's_Pack_Overlay_v1.3.4.zip
@@ -143,6 +157,7 @@ author:Steinente, EnteStein
 description:MIX Resource Pack
 icon:steinblock.png
 version:v3.5.1
+tag:NULL
 req-optifine:TRUE
 req-NEU:FALSE
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Steinblock%20v3.5.1.zip
@@ -153,6 +168,7 @@ author:TBlazeWarriorT
 description:A vanilla-styled pack for Hypixel SkyBlock
 icon:vanilla+.png
 version:v1.44-2
+tag:NULL
 req-optifine:TRUE
 req-NEU:FALSE
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Vanilla+_SkyBlock_R.P._v1.44-2.zip
@@ -163,6 +179,7 @@ author:Ectoplasm89
 description:NULL
 icon:ectoplasmsskyblockpack.png
 version:NULL
+tag:NULL
 req-optifine:TRUE
 req-NEU:FALSE
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Extoplasm's%20Skyblock%20Pack.zip
@@ -173,6 +190,7 @@ author:DarkCheese_
 description:100% good pack definetly should use DO IT :gun:
 icon:darkhoverlay.png
 version:v1.3
+tag:NULL
 req-optifine:TRUE
 req-NEU:FALSE
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/DarkH%20Overlay%20v1.3.zip
@@ -183,6 +201,7 @@ author:nightlibra
 description:Custom Vanilla-Style Enchanted Books for Hypixel Skyblock
 icon:skyblockEnchatedBooksOverlay.png
 version:NULL
+tag:NULL
 req-optifine:TRUE
 req-NEU:FALSE
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Skyblock_Enchanted_Books.zip
@@ -193,6 +212,7 @@ author:Resetti
 description:Makes the ghosts easier to see and the mist less eye killing
 icon:darkModeMist.png
 version:NULL
+tag:NULL
 req-optifine:TRUE
 req-NEU:FALSE
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/DarkModeMist.zip
