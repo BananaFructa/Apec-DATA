@@ -52,20 +52,20 @@ name:xCyni's Skyblock Pack - Full
 author:xCyni
 description:NULL
 icon:xCynisPack.png
-version:v2
+version:v2.0.1
 req-optifine:TRUE
 req-NEU:FALSE
-download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/xCynis%20Skyblock%20Pack%20-%20v2%20Full.zip
+download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/xCynis_Skyblock Pack_-_v2.0.1_Full.zip
 efn:xCynis Skyblock Pack - v2 Full.zip
 
 name:xCyni's Skyblock Pack - Overlay
 author:xCyni
 description:NULL
 icon:xCynisPack.png
-version:v2
+version:v2.0.1
 req-optifine:TRUE
 req-NEU:FALSE
-download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/xCynis%20Skyblock%20Pack%20-%20v2%20Overlay.zip
+download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/xCynis_Skyblock_Pack_-_v2.0.1_Overlay.zip
 efn:xCynis Skyblock Pack - v2 Overlay.zip
 
 name:Actually Assets
@@ -106,7 +106,7 @@ version:v1.3.4
 req-optifine:TRUE
 req-NEU:TRUE
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Mod_Cruel's_Pack_Overlay_v1.3.4.zip
-efn:Steinblock v3.5.1.zip
+efn:Mod_Cruel's_Pack_Overlay_v1.3.4.zip
 
 name:Steinblock
 author:Steinente, EnteStein
