@@ -98,6 +98,26 @@ req-NEU:FALSE
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Worlds_and_Beyond_[16x]_-_Release_1.3.zip
 efn:Worlds and Beyond [16x] - Release 1.3.zip
 
+name:Enhanced Skyblock Textures
+author:VortFX
+description:An animated texture pack that is mainly focused on weapons. All textures have been made with quality in mind, each with an unique and creative look. The pack also includes a HUD as well as some changes to the skyblock GUI.
+icon:eanchatedSkyblockTextures.png
+version:v1.1
+req-optifine:TRUE
+req-NEU:FALSE
+download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Enhanced_Skyblock_Textures_v1.1.zip
+efn:Enhanced_Skyblock_Textures_v1.1.zip
+
+name:Enhanced Skyblock Textures - Overlay
+author:VortFX
+description:An animated texture pack that is mainly focused on weapons. All textures have been made with quality in mind, each with an unique and creative look. The pack also includes a HUD as well as some changes to the skyblock GUI.
+icon:eanchatedSkyblockTextures.png
+version:v1.1
+req-optifine:TRUE
+req-NEU:FALSE
+download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Enhanced_Skyblock_Textures_v1.1_Overlay.zip
+efn:Enhanced_Skyblock_Textures_v1.1_Overlay.zip
+
 name:RNBW+ Resource Pack
 author:rainbowcraft2
 description:NULL
@@ -167,3 +187,13 @@ req-optifine:TRUE
 req-NEU:FALSE
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Skyblock_Enchanted_Books.zip
 efn:Skyblock_Enchanted_Books.zip
+
+name:DarkModeMist
+author:Resetti
+description:Makes the ghosts easier to see and the mist less eye killing
+icon:darkModeMist.png
+version:NULL
+req-optifine:TRUE
+req-NEU:FALSE
+download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/DarkModeMist.zip
+efn:DarkModeMist.zip
