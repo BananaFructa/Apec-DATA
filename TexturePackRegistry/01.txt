@@ -89,7 +89,7 @@ download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/
 efn:DwarvenAssets_v1.1.zip
 
 name:Worlds and Beyond
-author:The Worlds and Beyond Team
+author:Worlds and Beyond Team
 description:NULL
 icon:worldsAndBeyond.png
 version:v1.3
