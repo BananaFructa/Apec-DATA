@@ -152,7 +152,7 @@ req-NEU:FALSE
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Vanilla+_SkyBlock_R.P._v1.44-2.zip
 efn:Vanilla+ SkyBlock R.P. v1.44-2.zip
 
-name: Simplistic Sky Block
+name:Simplistic Sky Block
 author:Sluzeeey
 description:NULL
 icon:simplisticSkyBlock.png
