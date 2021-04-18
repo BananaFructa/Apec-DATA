@@ -141,6 +141,28 @@ req-NEU:FALSE
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/RNBW%2B%20v0.5.zip
 efn:RNBW+ v0.5.zip
 
+name:Vanilla+
+author:TBlazeWarriorT
+description:A vanilla-styled pack for Hypixel SkyBlock
+icon:vanilla+.png
+version:v1.44-2
+tag:NULL
+req-optifine:TRUE
+req-NEU:FALSE
+download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Vanilla+_SkyBlock_R.P._v1.44-2.zip
+efn:Vanilla+ SkyBlock R.P. v1.44-2.zip
+
+name: Simplistic Sky Block
+author:Sluzeeey
+description:NULL
+icon:simplisticSkyBlock.png
+version:v1.7
+tag:NULL
+req-optifine:TRUE
+req-NEU:FALSE
+download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/
+efn:§6HSB Texturepack §eV1.7§0.zip
+
 name:Mod Cruel's Pack - Overlay
 author:ModCruel, Seenseal, Death2you_972
 description:Continuation of where Steinblock left off.  Discord Dark Mode theme users rejoice! [659/1100]
@@ -163,16 +185,16 @@ req-NEU:FALSE
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Steinblock%20v3.5.1.zip
 efn:Steinblock v3.5.1.zip
 
-name:Vanilla+
-author:TBlazeWarriorT
-description:A vanilla-styled pack for Hypixel SkyBlock
-icon:vanilla+.png
-version:v1.44-2
+name:Arcri's Skyblock Pack
+author:Arcri
+description:Arcri's Skyblock Pack is a texture pack that takes a more stylized approach to Hypixel Skyblock. With dark outlines and a unique shading style, this texture pack will revamp your equipment. Find out more or request items to be sprited in the Discord:\nhttps://discord.gg/2qhVWSwHT9
+icon:arcrisSkyblockPack1.0.png
+version:v1.0
 tag:NULL
 req-optifine:TRUE
 req-NEU:FALSE
-download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Vanilla+_SkyBlock_R.P._v1.44-2.zip
-efn:Vanilla+ SkyBlock R.P. v1.44-2.zip
+download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Arcris_Skyblock_Pack_v1.0.zip
+efn:Arcris_Skyblock_Pack_v1.0.zip
 
 name:Extoplasm's Skyblock Pack
 author:Ectoplasm89
