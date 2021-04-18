@@ -160,7 +160,7 @@ version:v1.7
 tag:NULL
 req-optifine:TRUE
 req-NEU:FALSE
-download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/
+download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/%C2%A76HSB%20Texturepack%20%C2%A7eV1.7%C2%A70.zip
 efn:§6HSB Texturepack §eV1.7§0.zip
 
 name:Mod Cruel's Pack - Overlay
