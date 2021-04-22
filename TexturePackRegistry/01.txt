@@ -152,6 +152,17 @@ req-NEU:FALSE
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Vanilla+_SkyBlock_R.P._v1.44-2.zip
 efn:Vanilla+ SkyBlock R.P. v1.44-2.zip
 
+name:Kio's HSB Model Pack
+author:Kiocifer
+description:Wynn-esc 3D models for Hypixel Skyblock
+icon:kioHSBATPR0.png
+version:NULL
+tag:NULL
+req-optifine:TRUE
+req-NEU:FALSE
+download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/kios-hsb-pack-ATPR0.zip
+efn:kios-hsb-pack-ATPR0.zip
+
 name:Simplistic Sky Block
 author:Sluzeeey
 description:NULL
@@ -195,6 +206,28 @@ req-optifine:TRUE
 req-NEU:FALSE
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Arcris_Skyblock_Pack_v1.0.zip
 efn:Arcris_Skyblock_Pack_v1.0.zip
+
+name:SkyPack
+author:AstronoCraft
+description:NULL
+icon:skypack.png
+version:v1.4.5.1
+tag:NULL
+req-optifine:TRUE
+req-NEU:FALSE
+download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Skypack1.8.9v1.4.5.1.zip
+efn:SkyPack - 1.8.9 - v1.4.5.1
+
+name:Cslays Skyblock Pack
+author:mikestah
+description:NULL
+icon:cslaysPack.png
+version:v1.2
+tag:NULL
+req-optifine:TRUE
+req-NEU:FALSE
+download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/cslays_Skyblock_Pack_[1.8.x-1.12.x][v1.2].zip
+efn:cslays Skyblock Pack [1.8.x-1.12.x][v1.2].zip
 
 name:Extoplasm's Skyblock Pack
 author:Ectoplasm89
