@@ -5,6 +5,6 @@ icon:hyplus.png
 version:NULL
 req-optifine:TRUE
 req-NEU:FALSE
-download:NULL
-efn:NULL
+download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Hy%C2%A7epixel%C2%A76%2B_%C2%A7f1.8.zip
+efn:Hy§epixel§6+_§f1.8.zip
 tag:NULL
