@@ -176,14 +176,14 @@ efn:§6HSB Texturepack §eV1.7§0.zip
 
 name:Mod Cruel's Pack - Overlay
 author:ModCruel, Seenseal, Death2you_972
-description:Continuation of where Steinblock left off.  Discord Dark Mode theme users rejoice! [702/1100]
+description:Continuation of where Steinblock left off.  Discord Dark Mode theme users rejoice! [732/1100]
 icon:modCruelOverlay.png
-version:v1.3.5
+version:v1.3.6
 tag:NULL
 req-optifine:TRUE
 req-NEU:TRUE
-download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Mod_Cruel_Custom_SB_Pack_V1.3.5_Overlay_Only.zip
-efn:Mod_Cruel_Custom_SB_Pack_V1.3.5_Overlay_Only.zip
+download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Mod_Cruel_Custom_SB_Pack_V1.3.6_Overlay_Only.zip
+efn:Mod_Cruel_Custom_SB_Pack_V1.3.6_Overlay_Only.zip
 
 name:Steinblock
 author:Steinente, EnteStein
