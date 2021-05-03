@@ -189,12 +189,12 @@ name:Steinblock
 author:Steinente, EnteStein
 description:MIX Resource Pack
 icon:steinblock.png
-version:v3.5.1
+version:v3.6
 tag:NULL
 req-optifine:TRUE
 req-NEU:FALSE
-download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Steinblock%20v3.5.1.zip
-efn:Steinblock v3.5.1.zip
+download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Steinblock%20v3.6.zip
+efn:Steinblock v3.6.zip
 
 name:Arcri's Skyblock Pack
 author:Arcri
@@ -244,12 +244,12 @@ name:DarkH Overlay
 author:DarkCheese_
 description:100% good pack definetly should use DO IT :gun:
 icon:darkhoverlay.png
-version:v1.3
+version:v1.4
 tag:NULL
 req-optifine:TRUE
 req-NEU:FALSE
-download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/DarkH%20Overlay%20v1.3.zip
-efn:DarkH Overlay v1.3.zip
+download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/DarkH%20Overlay%20v1.4.zip
+efn:DarkH Overlay v1.4.zip
 
 name:Enchanted Book Overlays
 author:nightlibra
