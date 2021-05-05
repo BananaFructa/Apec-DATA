@@ -8,3 +8,14 @@ req-NEU:FALSE
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Hy%C2%A7epixel%C2%A76%2B_%C2%A7f1.8.zip
 efn:Hy§epixel§6+_§f1.8.zip
 tag:NULL
+
+name:Vortex's Mix Pack
+author:Vortex2Oblivion
+description:A mix pack by Vortex2Oblivion
+icon:vortexMixPack.png
+version:v0.3
+req-optifine:TRUE
+req-NEU:FALSE
+download:
+efn:§r§lVortexs §6§lMix§8§lPack §8§l[§70.3§8§l].zip
+tag:NULL
