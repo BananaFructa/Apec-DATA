@@ -16,6 +16,6 @@ icon:vortexMixPack.png
 version:v0.3
 req-optifine:TRUE
 req-NEU:FALSE
-download:
+download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/%C2%A7r%C2%A7lVortexs%20%C2%A76%C2%A7lMix%C2%A78%C2%A7lPack%20%C2%A78%C2%A7l%5B%C2%A770.3%C2%A78%C2%A7l%5D.zip
 efn:§r§lVortexs §6§lMix§8§lPack §8§l[§70.3§8§l].zip
 tag:NULL
