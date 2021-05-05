@@ -200,12 +200,12 @@ name:Arcri's Skyblock Pack
 author:Arcri
 description:Arcri's Skyblock Pack is a texture pack that takes a more stylized approach to Hypixel Skyblock. With dark outlines and a unique shading style, this texture pack will revamp your equipment. Find out more or request items to be sprited in the Discord:\nhttps://discord.gg/2qhVWSwHT9
 icon:arcrisSkyblockPack1.0.png
-version:v1.0
+version:v1.1
 tag:NULL
 req-optifine:TRUE
 req-NEU:FALSE
-download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Arcris_Skyblock_Pack_v1.0.zip
-efn:Arcris_Skyblock_Pack_v1.0.zip
+download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Arcris_Skyblock_Pack_v1.1.zip
+efn:Arcris_Skyblock_Pack_v1.1.zip
 
 name:SkyPack
 author:AstronoCraft
