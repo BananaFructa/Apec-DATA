@@ -6,7 +6,7 @@ version:v1.3
 tag:Full
 req-optifine:TRUE
 req-NEU:TRUE
-download: !!!!!
+download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/%C2%A7r%C2%A7lFurfSky%20%C2%A76%C2%A7lReborn%20%C2%A78%C2%A7lFL%20%C2%A78%C2%A7l%5B%C2%A771.3%C2%A78%C2%A7l%5D.zip
 efn:§r§lFurfSky §6§lReborn §8§lFL §8§l[§71.3§8§l].zip
 
 name:Furfsky Reborn
@@ -17,7 +17,7 @@ version:v1.3
 tag:Overlay
 req-optifine:TRUE
 req-NEU:FALSE
-download: !!!!!
+download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/%C2%A7r%C2%A7lFurfSky%20%C2%A76%C2%A7lReborn%20%C2%A78%C2%A7lOV%20%C2%A78%C2%A7l%5B%C2%A771.3%C2%A78%C2%A7l%5D.zip
 efn:§r§lFurfSky §6§lReborn §8§lOV §8§l[§71.3§8§l].zip
 
 name:Furfsky Reborn
@@ -28,7 +28,7 @@ version:v1.3
 tag:Overlay+
 req-optifine:TRUE
 req-NEU:FALSE
-download: !!!!!
+download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/%C2%A7r%C2%A7lFurfSky%20%C2%A76%C2%A7lReborn%20%C2%A78%C2%A7lOV%2B%20%C2%A78%C2%A7l%5B%C2%A771.3%C2%A78%C2%A7l%5D.zip
 efn:§r§lFurfSky §6§lReborn §8§lOV+ §8§l[§71.3§8§l].zip
 
 name:Hypixel Skyblock Pack
