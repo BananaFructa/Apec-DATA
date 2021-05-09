@@ -13,11 +13,11 @@ name:Vortex's Mix Pack
 author:Vortex2Oblivion
 description:A mix pack by Vortex2Oblivion
 icon:vortexMixPack.png
-version:v0.3
+version:v1.0
 req-optifine:TRUE
 req-NEU:FALSE
-download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/%C2%A7r%C2%A7lVortexs%20%C2%A76%C2%A7lMix%C2%A78%C2%A7lPack%20%C2%A78%C2%A7l%5B%C2%A770.3%C2%A78%C2%A7l%5D.zip
-efn:§r§lVortexs §6§lMix§8§lPack §8§l[§70.3§8§l].zip
+download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/%C2%A7r%C2%A7lVortexs%20%C2%A76%C2%A7lMix%C2%A78%C2%A7lPack%20%C2%A78%C2%A7l%5B%C2%A771.0%C2%A78%C2%A7l%5D.zip
+efn:§r§lVortexs §6§lMix§8§lPack §8§l[§71.0§8§l].zip
 tag:NULL
 
 name:Saucy Skies
