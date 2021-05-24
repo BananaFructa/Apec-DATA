@@ -33,11 +33,11 @@ tag:NULL
 
 name:Glenz's Wither Armor
 author:Glenz
-description:NULL
-icon:saucyskies.png
+description:Overlay by Glenz on the forums and tumblr\nFor the best experience combine it with Furfsky Reborn
+icon:glenzOverlay.png
 version:NULL
 req-optifine:TRUE
 req-NEU:TRUE
-download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/
+download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/%C2%A7cGlenzs%20Wither%20Armor.zip
 efn:§cGlenzs Wither Armor.zip
 tag:NULL
