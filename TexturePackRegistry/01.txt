@@ -57,12 +57,12 @@ name:Dark Skyblock UI
 author:Packs HQ Team
 description:NULL
 icon:packsHq-dark.png
-version:v13
+version:v2
 tag:NULL
 req-optifine:TRUE
 req-NEU:FALSE
-download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Dark_Skyblock_UI.zip
-efn:Dark_Skyblock_UI.zip
+download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/v2_Dark_Skyblock_UI.zip
+efn:v2_Dark_Skyblock_UI.zip
 
 name:xCyni's Skyblock Pack
 author:xCyni
