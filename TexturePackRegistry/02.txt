@@ -30,3 +30,14 @@ req-NEU:FALSE
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/SaucySkies.zip
 efn:SaucySkies.zip
 tag:NULL
+
+name:Glenz's Wither Armor
+author:Glenz
+description:NULL
+icon:saucyskies.png
+version:NULL
+req-optifine:TRUE
+req-NEU:TRUE
+download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/
+efn:§cGlenzs Wither Armor.zip
+tag:NULL
