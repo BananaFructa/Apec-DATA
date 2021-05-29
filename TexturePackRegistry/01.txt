@@ -255,7 +255,7 @@ name:DarkH Overlay
 author:DarkCheese_
 description:100% good pack definetly should use DO IT :gun:
 icon:darkhoverlay.png
-version:v1.4
+version:v05
 tag:NULL
 req-optifine:TRUE
 req-NEU:FALSE
