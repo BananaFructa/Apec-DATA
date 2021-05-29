@@ -259,7 +259,7 @@ version:v05
 tag:NULL
 req-optifine:TRUE
 req-NEU:FALSE
-download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/DarkH%20Overlay%20v1.4.zip
+download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/V05DarkH%20Overlay.zip.zip
 efn:DarkH Overlay v1.4.zip
 
 name:Enchanted Book Overlays
