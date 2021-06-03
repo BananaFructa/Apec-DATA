@@ -41,3 +41,14 @@ req-NEU:TRUE
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/%C2%A7cGlenzs%20Wither%20Armor.zip
 efn:§cGlenzs Wither Armor.zip
 tag:NULL
+
+name:Nameless
+author:Smolegit
+description:NULL
+icon:nameless1.png
+version:Beta 0.3
+req-optifine:TRUE
+req-NEU:FALSE
+download:
+efn:§f§m§l Name§7§m§lless §r§8 [Beta 0.3].zip
+tag:NULL
