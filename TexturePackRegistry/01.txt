@@ -266,7 +266,7 @@ name:Enchanted Book Overlays
 author:nightlibra
 description:Custom Vanilla-Style Enchanted Books for Hypixel Skyblock
 icon:skyblockEnchatedBooksOverlay.png
-version:NULL
+version:v2
 tag:NULL
 req-optifine:TRUE
 req-NEU:FALSE
