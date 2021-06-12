@@ -185,16 +185,16 @@ req-NEU:FALSE
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/%C2%A76HSB%20Texturepack%20%C2%A7eV1.7%C2%A70.zip
 efn:§6HSB Texturepack §eV1.7§0.zip
 
-name:Mod Cruel's Pack - Overlay
-author:ModCruel, Seenseal, Death2you_972
-description:Continuation of where Steinblock left off.  Discord Dark Mode theme users rejoice! [732/1100]
-icon:modCruelOverlay.png
-version:v1.3.6
+name:SBBW Skyblock Pack
+author:SBBW Team
+description:The one-stop pack that has Discord user and Skyblock players in mind.  Started from the semi-death of Steinblock and now boast more than 1000 custom textures and models alike.  (We also make a PvP Pack too.)  [1273/1700] | [Overlay Only]
+icon:sbbwPack.png
+version:v2.0
 tag:NULL
 req-optifine:TRUE
 req-NEU:TRUE
-download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Mod_Cruel_Custom_SB_Pack_V1.3.6_Overlay_Only.zip
-efn:Mod_Cruel_Custom_SB_Pack_V1.3.6_Overlay_Only.zip
+download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/SBBW_Skyblock_Pack_V2.0_Overlay_Only.zip
+efn:SBBW_Skyblock_Pack_V2.0_Overlay_Only.zip
 
 name:Steinblock
 author:Steinente, EnteStein
