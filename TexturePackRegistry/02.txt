@@ -6,7 +6,7 @@ version:v0.11.5
 req-optifine:TRUE
 req-NEU:FALSE
 connections:FORUM_PAGE^https://hypixel.net/threads/0-11-5-update-hypixel-for-1-8-1-12-and-1-17.4174260/
-download:
+download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/hypixel-1-8-9.zip
 efn:hypixel-1-8-9.zip
 tag:NULL
 
