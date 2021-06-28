@@ -6,8 +6,8 @@ version:v1.3
 tag:Full
 req-optifine:TRUE
 req-NEU:TRUE
-connections:DISCORD^discord.gg/fsr FORUM_PAGE^https://hypixel.net/threads/furfsky-reborn-1-3-1-voidgloom-twilight.4101579/ WEB_PAGE^http://furfsky.net/
-download:furfsky.net/files/v1.3.1/%C2%A7r%C2%A7lFurfSky%20%C2%A76%C2%A7lReborn%20%C2%A78%C2%A7lFL%20%C2%A78%C2%A7l[%C2%A771.3.1%C2%A78%C2%A7l].zip
+connections:DISCORD^https://discord.com/invite/fsr FORUM_PAGE^https://hypixel.net/threads/furfsky-reborn-1-3-1-voidgloom-twilight.4101579/ WEB_PAGE^http://furfsky.net/
+download:http://furfsky.net/files/v1.3.1/%C2%A7r%C2%A7lFurfSky%20%C2%A76%C2%A7lReborn%20%C2%A78%C2%A7lFL%20%C2%A78%C2%A7l[%C2%A771.3.1%C2%A78%C2%A7l].zip
 efn:§r§lFurfSky §6§lReborn §8§lFL §8§l[§71.3.1§8§l].zip
 
 name:Furfsky Reborn
@@ -18,8 +18,8 @@ version:v1.3
 tag:Overlay
 req-optifine:TRUE
 req-NEU:FALSE
-connections:DISCORD^discord.gg/fsr FORUM_PAGE^https://hypixel.net/threads/furfsky-reborn-1-3-1-voidgloom-twilight.4101579/ WEB_PAGE^http://furfsky.net/
-download:furfsky.net/files/v1.3.1/%C2%A7r%C2%A7lFurfSky%20%C2%A76%C2%A7lReborn%20%C2%A78%C2%A7lOV%20%C2%A78%C2%A7l[%C2%A771.3.1%C2%A78%C2%A7l].zip
+connections:DISCORD^https://discord.com/invite/fsr FORUM_PAGE^https://hypixel.net/threads/furfsky-reborn-1-3-1-voidgloom-twilight.4101579/ WEB_PAGE^http://furfsky.net/
+download:http://furfsky.net/files/v1.3.1/%C2%A7r%C2%A7lFurfSky%20%C2%A76%C2%A7lReborn%20%C2%A78%C2%A7lOV%20%C2%A78%C2%A7l[%C2%A771.3.1%C2%A78%C2%A7l].zip
 efn:§r§lFurfSky §6§lReborn §8§lOV §8§l[§71.3.1§8§l].zip
 
 name:Furfsky Reborn
@@ -30,8 +30,8 @@ version:v1.3
 tag:Overlay+
 req-optifine:TRUE
 req-NEU:FALSE
-connections:DISCORD^discord.gg/fsr FORUM_PAGE^https://hypixel.net/threads/furfsky-reborn-1-3-1-voidgloom-twilight.4101579/ TWITTER^https://twitter.com/furfskyreborn WEB_PAGE^http://furfsky.net/
-download:furfsky.net/files/v1.3.1/%C2%A7r%C2%A7lFurfSky%20%C2%A76%C2%A7lReborn%20%C2%A78%C2%A7lOV+%20%C2%A78%C2%A7l[%C2%A771.3.1%C2%A78%C2%A7l].zip
+connections:DISCORD^https://discord.com/invite/fsr FORUM_PAGE^https://hypixel.net/threads/furfsky-reborn-1-3-1-voidgloom-twilight.4101579/ TWITTER^https://twitter.com/furfskyreborn WEB_PAGE^http://furfsky.net/
+download:http://furfsky.net/files/v1.3.1/%C2%A7r%C2%A7lFurfSky%20%C2%A76%C2%A7lReborn%20%C2%A78%C2%A7lOV+%20%C2%A78%C2%A7l[%C2%A771.3.1%C2%A78%C2%A7l].zip
 efn:§r§lFurfSky §6§lReborn §8§lOV+ §8§l[§71.3.1§8§l].zip
 
 name:Hypixel Skyblock Pack
@@ -42,7 +42,7 @@ version:v13
 tag:16x
 req-optifine:TRUE
 req-NEU:FALSE
-connections:DISCORD^discord.gg/YH4wXHkgjC FORUM_PAGE^https://hypixel.net/threads/hypixel-skyblock-pack-the-necron-update.2103515/ TWITTER^https://twitter.com/furfskyreborn WEB_PAGE^https://packshq.com/
+connections:DISCORD^https://discord.com/invite/YH4wXHkgjC FORUM_PAGE^https://hypixel.net/threads/hypixel-skyblock-pack-the-necron-update.2103515/ TWITTER^https://twitter.com/furfskyreborn WEB_PAGE^https://packshq.com/
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/v13_16x_Hypixel_Skyblock_Pack.zip
 efn:v13_16x_Hypixel_Skyblock_Pack.zip
 
@@ -54,7 +54,7 @@ version:v13
 tag:32x
 req-optifine:TRUE
 req-NEU:FALSE
-connections:DISCORD^discord.gg/YH4wXHkgjC FORUM_PAGE^https://hypixel.net/threads/hypixel-skyblock-pack-the-necron-update.2103515/ TWITTER^https://twitter.com/packs_hq WEB_PAGE^https://packshq.com/
+connections:DISCORD^https://discord.com/invite/YH4wXHkgjC FORUM_PAGE^https://hypixel.net/threads/hypixel-skyblock-pack-the-necron-update.2103515/ TWITTER^https://twitter.com/packs_hq WEB_PAGE^https://packshq.com/
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/v13_32x_Hypixel_Skyblock_Pack.zip
 efn:v13_32x_Hypixel_Skyblock_Pack.zip
 
@@ -66,7 +66,7 @@ version:v2
 tag:NULL
 req-optifine:TRUE
 req-NEU:FALSE
-connections:DISCORD^discord.gg/YH4wXHkgjC TWITTER^https://twitter.com/packs_hq WEB_PAGE^https://packshq.com/
+connections:DISCORD^https://discord.com/invite/YH4wXHkgjC TWITTER^https://twitter.com/packs_hq WEB_PAGE^https://packshq.com/
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/v2_Dark_Skyblock_UI.zip
 efn:v2_Dark_Skyblock_UI.zip
 
