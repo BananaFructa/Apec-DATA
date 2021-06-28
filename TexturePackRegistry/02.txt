@@ -2,11 +2,12 @@ name:Hypixel+
 author:ic22487
 description:A Vanilla-Styled pack that textures Skyblock, the Main Lobby, and much more
 icon:hyplus.png
-version:NULL
+version:v0.11.5
 req-optifine:TRUE
 req-NEU:FALSE
-download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Hy%C2%A7epixel%C2%A76%2B_%C2%A7f1.8.zip
-efn:Hy§epixel§6+_§f1.8.zip
+connections:FORUM_PAGE^https://hypixel.net/threads/0-11-5-update-hypixel-for-1-8-1-12-and-1-17.4174260/
+download:
+efn:hypixel-1-8-9.zip
 tag:NULL
 
 name:Vortex's Mix Pack
@@ -16,6 +17,7 @@ icon:vortexMixPack.png
 version:v1.0
 req-optifine:TRUE
 req-NEU:FALSE
+connections:FORUM_PAGE^https://hypixel.net/threads/a-brand-new-mix-pack-vortexs-mix-pack.4213555/
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/%C2%A7r%C2%A7lVortexs%20%C2%A76%C2%A7lMix%C2%A78%C2%A7lPack%20%C2%A78%C2%A7l%5B%C2%A771.0%C2%A78%C2%A7l%5D.zip
 efn:§r§lVortexs §6§lMix§8§lPack §8§l[§71.0§8§l].zip
 tag:NULL
@@ -27,6 +29,7 @@ icon:saucyskies.png
 version:NULL
 req-optifine:TRUE
 req-NEU:FALSE
+connections:FORUM_PAGE^https://hypixel.net/threads/saucy-skies-16x-pack.3622373/
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/SaucySkies.zip
 efn:SaucySkies.zip
 tag:NULL
@@ -38,6 +41,7 @@ icon:glenzOverlay.png
 version:NULL
 req-optifine:TRUE
 req-NEU:TRUE
+connections:FORUM_PAGE^https://hypixel.net/threads/glenzs-wither-armor-overlay.4250073/
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/%C2%A7cGlenzs%20Wither%20Armor.zip
 efn:§cGlenzs Wither Armor.zip
 tag:NULL
@@ -49,6 +53,7 @@ icon:nameless1.png
 version:Beta 0.3
 req-optifine:TRUE
 req-NEU:FALSE
+connections:DISCORD^https://discord.com/invite/ahqm9FxyWg FORUM_PAGE^https://hypixel.net/threads/nameless-skyblock-pack-first-release-out-now.4189235/#post-30404730
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/%C2%A7f%C2%A7m%C2%A7l%20Name%C2%A77%C2%A7m%C2%A7lless%20%C2%A7r%C2%A78%20%5BBeta%200.3%5D.zip
 efn:§f§m§l Name§7§m§lless §r§8 [Beta 0.3].zip
 tag:NULL

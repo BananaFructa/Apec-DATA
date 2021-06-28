@@ -6,6 +6,7 @@ version:v1.3
 tag:Full
 req-optifine:TRUE
 req-NEU:TRUE
+connections:DISCORD^discord.gg/fsr FORUM_PAGE^https://hypixel.net/threads/furfsky-reborn-1-3-1-voidgloom-twilight.4101579/ WEB_PAGE^http://furfsky.net/
 download:furfsky.net/files/v1.3.1/%C2%A7r%C2%A7lFurfSky%20%C2%A76%C2%A7lReborn%20%C2%A78%C2%A7lFL%20%C2%A78%C2%A7l[%C2%A771.3.1%C2%A78%C2%A7l].zip
 efn:§r§lFurfSky §6§lReborn §8§lFL §8§l[§71.3.1§8§l].zip
 
@@ -17,6 +18,7 @@ version:v1.3
 tag:Overlay
 req-optifine:TRUE
 req-NEU:FALSE
+connections:DISCORD^discord.gg/fsr FORUM_PAGE^https://hypixel.net/threads/furfsky-reborn-1-3-1-voidgloom-twilight.4101579/ WEB_PAGE^http://furfsky.net/
 download:furfsky.net/files/v1.3.1/%C2%A7r%C2%A7lFurfSky%20%C2%A76%C2%A7lReborn%20%C2%A78%C2%A7lOV%20%C2%A78%C2%A7l[%C2%A771.3.1%C2%A78%C2%A7l].zip
 efn:§r§lFurfSky §6§lReborn §8§lOV §8§l[§71.3.1§8§l].zip
 
@@ -28,6 +30,7 @@ version:v1.3
 tag:Overlay+
 req-optifine:TRUE
 req-NEU:FALSE
+connections:DISCORD^discord.gg/fsr FORUM_PAGE^https://hypixel.net/threads/furfsky-reborn-1-3-1-voidgloom-twilight.4101579/ TWITTER^https://twitter.com/furfskyreborn WEB_PAGE^http://furfsky.net/
 download:furfsky.net/files/v1.3.1/%C2%A7r%C2%A7lFurfSky%20%C2%A76%C2%A7lReborn%20%C2%A78%C2%A7lOV+%20%C2%A78%C2%A7l[%C2%A771.3.1%C2%A78%C2%A7l].zip
 efn:§r§lFurfSky §6§lReborn §8§lOV+ §8§l[§71.3.1§8§l].zip
 
@@ -39,6 +42,7 @@ version:v13
 tag:16x
 req-optifine:TRUE
 req-NEU:FALSE
+connections:DISCORD^discord.gg/YH4wXHkgjC FORUM_PAGE^https://hypixel.net/threads/hypixel-skyblock-pack-the-necron-update.2103515/ TWITTER^https://twitter.com/furfskyreborn WEB_PAGE^https://packshq.com/
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/v13_16x_Hypixel_Skyblock_Pack.zip
 efn:v13_16x_Hypixel_Skyblock_Pack.zip
 
@@ -50,6 +54,7 @@ version:v13
 tag:32x
 req-optifine:TRUE
 req-NEU:FALSE
+connections:DISCORD^discord.gg/YH4wXHkgjC FORUM_PAGE^https://hypixel.net/threads/hypixel-skyblock-pack-the-necron-update.2103515/ TWITTER^https://twitter.com/packs_hq WEB_PAGE^https://packshq.com/
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/v13_32x_Hypixel_Skyblock_Pack.zip
 efn:v13_32x_Hypixel_Skyblock_Pack.zip
 
@@ -61,6 +66,7 @@ version:v2
 tag:NULL
 req-optifine:TRUE
 req-NEU:FALSE
+connections:DISCORD^discord.gg/YH4wXHkgjC TWITTER^https://twitter.com/packs_hq WEB_PAGE^https://packshq.com/
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/v2_Dark_Skyblock_UI.zip
 efn:v2_Dark_Skyblock_UI.zip
 
@@ -72,6 +78,7 @@ version:v2.0.1
 tag:Full
 req-optifine:TRUE
 req-NEU:FALSE
+connections:DISCORD^https://discord.gg/QremRHP FORUM_PAGE^https://hypixel.net/threads/xcynis-skyblock-pack-v2-2-mashup-revamped-swords-and-accessories.3379991/
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/xCynis_Skyblock_Pack_-_v2.0.1_Full.zip
 efn:xCynis Skyblock Pack - v2 Full.zip
 
@@ -83,6 +90,7 @@ version:v2.0.1
 tag:Overlay
 req-optifine:TRUE
 req-NEU:FALSE
+connections:DISCORD^https://discord.gg/QremRHP FORUM_PAGE^https://hypixel.net/threads/xcynis-skyblock-pack-v2-2-mashup-revamped-swords-and-accessories.3379991/
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/xCynis_Skyblock_Pack_-_v2.0.1_Overlay.zip
 efn:xCynis Skyblock Pack - v2 Overlay.zip
 
@@ -94,6 +102,7 @@ version:v1.8.2
 tag:NULL
 req-optifine:TRUE
 req-NEU:FALSE
+connections:DISCORD^https://discord.com/invite/ABHrh6K3Fh FORUM_PAGE^https://hypixel.net/threads/1-8-2-redos-misc-actuallyassets-a-vanilla-esque-resource-pack-made-for-skyblock.3129905/
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/ActuallyAssets_v1.8.2.zip
 efn:ActuallyAssets v1.8.2.zip
 
@@ -105,6 +114,7 @@ version:v1.1
 tag:NULL
 req-optifine:TRUE
 req-NEU:TRUE
+connections:DISCORD^https://discord.com/invite/ABHrh6K3Fh FORUM_PAGE^https://hypixel.net/threads/dwarvenassets-custom-mithril-veins.3797121/
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/DwarvenAssets_v1.1.zip
 efn:DwarvenAssets_v1.1.zip
 
@@ -116,6 +126,7 @@ version:v1.3
 tag:NULL
 req-optifine:TRUE
 req-NEU:FALSE
+connections:DISCORD^https://discord.com/invite/TXufEf3QaA FORUM_PAGE^https://hypixel.net/threads/worlds-and-beyond-16x-dwarven-mines-update-version-1-3.3597207/
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Worlds_and_Beyond_[16x]_-_Release_1.3.zip
 efn:Worlds and Beyond [16x] - Release 1.3.zip
 
@@ -127,6 +138,7 @@ version:v1.1
 tag:Full
 req-optifine:TRUE
 req-NEU:FALSE
+connections:DISCORD^https://discord.com/invite/M7MbAVF FORUM_PAGE^https://hypixel.net/threads/enhanced-skyblock-textures-16x-animated.2549153/
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Enhanced_Skyblock_Textures_v1.1.zip
 efn:Enhanced_Skyblock_Textures_v1.1.zip
 
@@ -138,6 +150,7 @@ version:v1.1
 tag:Overlay
 req-optifine:TRUE
 req-NEU:FALSE
+connections:DISCORD^https://discord.com/invite/M7MbAVF FORUM_PAGE^https://hypixel.net/threads/enhanced-skyblock-textures-16x-animated.2549153/
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Enhanced_Skyblock_Textures_v1.1_Overlay.zip
 efn:Enhanced_Skyblock_Textures_v1.1_Overlay.zip
 
@@ -149,6 +162,7 @@ version:v0.5.0
 tag:NULL
 req-optifine:TRUE
 req-NEU:FALSE
+connections:DISCORD^https://discord.com/invite/dcdsnvG4Q4 FORUM_PAGE^https://hypixel.net/threads/rnbw-resource-pack-v0-6-0-update-v0-6-0-dante-and-dungeons-pt-2.3470904/
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/RNBW%2B%20v0.5.zip
 efn:RNBW+ v0.5.zip
 
@@ -160,6 +174,7 @@ version:v1.44-2
 tag:NULL
 req-optifine:TRUE
 req-NEU:FALSE
+connections:DISCORD^https://discord.com/invite/wptdArU FORUM_PAGE^https://hypixel.net/threads/x16-1-8-x-1-14-x-vanilla-skyblock-resource-pack-v1-441-1-000-textures-added-livid-dagger.2147652/
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Vanilla+_SkyBlock_R.P._v1.44-2.zip
 efn:Vanilla+ SkyBlock R.P. v1.44-2.zip
 
@@ -171,6 +186,7 @@ version:NULL
 tag:NULL
 req-optifine:TRUE
 req-NEU:FALSE
+connections:FORUM_PAGE^https://hypixel.net/threads/kios-hsb-model-pack-wynncraft-esque-3d-models-for-your-skyblock-items.3604212/
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/kios-hsb-pack-ATPR0.zip
 efn:kios-hsb-pack-ATPR0.zip
 
@@ -182,6 +198,7 @@ version:v1.7
 tag:NULL
 req-optifine:TRUE
 req-NEU:FALSE
+connections:FORUM_PAGE^https://hypixel.net/threads/texturepack-1-8-9-simplistic-sky-block-texture-pack.3064883/
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/%C2%A76HSB%20Texturepack%20%C2%A7eV1.7%C2%A70.zip
 efn:§6HSB Texturepack §eV1.7§0.zip
 
@@ -193,6 +210,7 @@ version:v2.0
 tag:NULL
 req-optifine:TRUE
 req-NEU:TRUE
+connections:DISCORD^https://discord.com/invite/WpWUT2C
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/SBBW_Skyblock_Pack_V2.0_Overlay_Only.zip
 efn:SBBW_Skyblock_Pack_V2.0_Overlay_Only.zip
 
@@ -204,6 +222,7 @@ version:v3.6
 tag:NULL
 req-optifine:TRUE
 req-NEU:FALSE
+connections:DISCORD^https://discord.com/invite/KcgS8DN FORUM_PAGE^https://hypixel.net/threads/steinblock-mix-resource-pack-1-8-9-v3-6-from-01-05-2021.3823675/
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Steinblock%20v3.6.zip
 efn:Steinblock v3.6.zip
 
@@ -215,6 +234,7 @@ version:v1.1
 tag:NULL
 req-optifine:TRUE
 req-NEU:FALSE
+connections:DISCORD^https://discord.com/invite/2qhVWSwHT9 FORUM_PAGE^https://hypixel.net/threads/16x-pack-arcris-skyblock-pack-v1-1-necrons-arsenal.4092584/
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Arcris_Skyblock_Pack_v1.1.zip
 efn:Arcris_Skyblock_Pack_v1.1.zip
 
@@ -226,6 +246,7 @@ version:v1.4.5.1
 tag:NULL
 req-optifine:TRUE
 req-NEU:FALSE
+connections:FORUM_PAGE^https://hypixel.net/threads/skypack-x16-new-texture-pack-skyblock.2454763/
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Skypack1.8.9v1.4.5.1.zip
 efn:SkyPack - 1.8.9 - v1.4.5.1
 
@@ -237,6 +258,7 @@ version:v1.2
 tag:NULL
 req-optifine:TRUE
 req-NEU:FALSE
+connections:FORUM_PAGE^https://hypixel.net/threads/armor-update-skypixel-custom-resourcepack.2114223/
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/cslays_Skyblock_Pack_[1.8.x-1.12.x][v1.2].zip
 efn:cslays Skyblock Pack [1.8.x-1.12.x][v1.2].zip
 
@@ -248,6 +270,7 @@ version:NULL
 tag:NULL
 req-optifine:TRUE
 req-NEU:FALSE
+connections:FORUM_PAGE^https://hypixel.net/threads/ectoplasms-skyblock-resource-pack-completionists-update.2239953/
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Extoplasm's%20Skyblock%20Pack.zip
 efn:Extoplasm's Skyblock Pack.zip
 
@@ -259,6 +282,7 @@ version:v05
 tag:NULL
 req-optifine:TRUE
 req-NEU:FALSE
+connections:DISCORD^https://discord.gg/e6ucEK2
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/V05DarkH%20Overlay.zip.zip
 efn:DarkH Overlay v1.4.zip
 
@@ -270,6 +294,7 @@ version:v2
 tag:NULL
 req-optifine:TRUE
 req-NEU:FALSE
+connections:FORUM_PAGE^https://hypixel.net/threads/enchanted-book-overlays-for-skyblock-v2-smarty-pants-mana-steal.4026138/
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/Skyblock_Enchanted_Books.zip
 efn:Skyblock_Enchanted_Books.zip
 
@@ -281,5 +306,6 @@ version:NULL
 tag:NULL
 req-optifine:TRUE
 req-NEU:FALSE
+connections:NULL
 download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/DarkModeMist.zip
 efn:DarkModeMist.zip
