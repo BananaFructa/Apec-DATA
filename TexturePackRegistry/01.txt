@@ -6,7 +6,7 @@ version:v1.3
 tag:Full
 req-optifine:TRUE
 req-NEU:TRUE
-connections:DISCORD^https://discord.com/invite/fsr FORUM_PAGE^https://hypixel.net/threads/furfsky-reborn-1-3-1-voidgloom-twilight.4101579/ WEB_PAGE^http://furfsky.net/
+connections:DISCORD^https://discord.com/invite/fsr FORUM_PAGE^https://hypixel.net/threads/furfsky-reborn-1-3-1-voidgloom-twilight.4101579/ TWITTER^https://twitter.com/furfskyreborn WEB_PAGE^http://furfsky.net/
 download:http://furfsky.net/files/v1.3.1/%C2%A7r%C2%A7lFurfSky%20%C2%A76%C2%A7lReborn%20%C2%A78%C2%A7lFL%20%C2%A78%C2%A7l[%C2%A771.3.1%C2%A78%C2%A7l].zip
 efn:§r§lFurfSky §6§lReborn §8§lFL §8§l[§71.3.1§8§l].zip
 
@@ -18,7 +18,7 @@ version:v1.3
 tag:Overlay
 req-optifine:TRUE
 req-NEU:FALSE
-connections:DISCORD^https://discord.com/invite/fsr FORUM_PAGE^https://hypixel.net/threads/furfsky-reborn-1-3-1-voidgloom-twilight.4101579/ WEB_PAGE^http://furfsky.net/
+connections:DISCORD^https://discord.com/invite/fsr FORUM_PAGE^https://hypixel.net/threads/furfsky-reborn-1-3-1-voidgloom-twilight.4101579/ TWITTER^https://twitter.com/furfskyreborn WEB_PAGE^http://furfsky.net/
 download:http://furfsky.net/files/v1.3.1/%C2%A7r%C2%A7lFurfSky%20%C2%A76%C2%A7lReborn%20%C2%A78%C2%A7lOV%20%C2%A78%C2%A7l[%C2%A771.3.1%C2%A78%C2%A7l].zip
 efn:§r§lFurfSky §6§lReborn §8§lOV §8§l[§71.3.1§8§l].zip
 
