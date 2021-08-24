@@ -1,38 +1,38 @@
 name:Furfsky Reborn
 author:Furfsky Reborn Team
 description:Continuation of the furfsky+ texture pack\ndiscord.gg/fsr
-icon:fsr1.3.1FL.png
-version:v1.3
+icon:furfSkyFull1.4.png
+version:v1.4
 tag:Full
 req-optifine:TRUE
 req-NEU:TRUE
 connections:DISCORD^https://discord.com/invite/fsr FORUM_PAGE^https://hypixel.net/threads/furfsky-reborn-1-3-1-voidgloom-twilight.4101579/ TWITTER^https://twitter.com/furfskyreborn WEB_PAGE^http://furfsky.net/
-download:http://furfsky.net/files/v1.3.1/%C2%A7r%C2%A7lFurfSky%20%C2%A76%C2%A7lReborn%20%C2%A78%C2%A7lFL%20%C2%A78%C2%A7l[%C2%A771.3.1%C2%A78%C2%A7l].zip
-efn:§r§lFurfSky §6§lReborn §8§lFL §8§l[§71.3.1§8§l].zip
+download:http://furfsky.net/files/v1.4/%C2%A7r%C2%A7lFurfSky%20%C2%A76%C2%A7lReborn%20%C2%A78%C2%A7lFL%20%C2%A78%C2%A7l[%C2%A771.4%C2%A78%C2%A7l].zip
+efn:§r§lFurfSky §6§lReborn §8§lFL §8§l[§71.4§8§l].zip
 
 name:Furfsky Reborn
 author:Furfsky Reborn Team
 description:Continuation of the furfsky+ texture pack\ndiscord.gg/fsr
-icon:fsr1.3.1OV.png
-version:v1.3
+icon:furfSkyov1.4.png
+version:v1.4
 tag:Overlay
 req-optifine:TRUE
 req-NEU:FALSE
 connections:DISCORD^https://discord.com/invite/fsr FORUM_PAGE^https://hypixel.net/threads/furfsky-reborn-1-3-1-voidgloom-twilight.4101579/ TWITTER^https://twitter.com/furfskyreborn WEB_PAGE^http://furfsky.net/
-download:http://furfsky.net/files/v1.3.1/%C2%A7r%C2%A7lFurfSky%20%C2%A76%C2%A7lReborn%20%C2%A78%C2%A7lOV%20%C2%A78%C2%A7l[%C2%A771.3.1%C2%A78%C2%A7l].zip
-efn:§r§lFurfSky §6§lReborn §8§lOV §8§l[§71.3.1§8§l].zip
+download:http://furfsky.net/files/v1.4/%C2%A7r%C2%A7lFurfSky%20%C2%A76%C2%A7lReborn%20%C2%A78%C2%A7lOV%20%C2%A78%C2%A7l[%C2%A771.4%C2%A78%C2%A7l].zip
+efn:§r§lFurfSky §6§lReborn §8§lOV §8§l[§71.4§8§l].zip
 
 name:Furfsky Reborn
 author:Furfsky Reborn Team
 description:Continuation of the furfsky+ texture pack\ndiscord.gg/fsr
-icon:fsr1.3.1OVp.png
-version:v1.3
+icon:furfSkyop1.4.png
+version:v1.4
 tag:Overlay+
 req-optifine:TRUE
 req-NEU:FALSE
 connections:DISCORD^https://discord.com/invite/fsr FORUM_PAGE^https://hypixel.net/threads/furfsky-reborn-1-3-1-voidgloom-twilight.4101579/ TWITTER^https://twitter.com/furfskyreborn WEB_PAGE^http://furfsky.net/
-download:http://furfsky.net/files/v1.3.1/%C2%A7r%C2%A7lFurfSky%20%C2%A76%C2%A7lReborn%20%C2%A78%C2%A7lOV+%20%C2%A78%C2%A7l[%C2%A771.3.1%C2%A78%C2%A7l].zip
-efn:§r§lFurfSky §6§lReborn §8§lOV+ §8§l[§71.3.1§8§l].zip
+download:http://furfsky.net/files/v1.4/%C2%A7r%C2%A7lFurfSky%20%C2%A76%C2%A7lReborn%20%C2%A78%C2%A7lOV+%20%C2%A78%C2%A7l[%C2%A771.4%C2%A78%C2%A7l].zip
+efn:§r§lFurfSky §6§lReborn §8§lOV+ §8§l[§71.4§8§l].zip
 
 name:Hypixel Skyblock Pack
 author:Packs HQ Team
@@ -204,15 +204,15 @@ efn:§6HSB Texturepack §eV1.7§0.zip
 
 name:SBBW Skyblock Pack
 author:SBBW Team
-description:The one-stop pack that has Discord user and Skyblock players in mind.  Started from the semi-death of Steinblock and now boast more than 1000 custom textures and models alike.  (We also make a PvP Pack too.)  [1273/1700] | [Overlay Only]
+description:This is the one-stop pack that has Discord users and Skyblock players in mind. Started from the semi-death of Steinblock and now boasts more than 1000 custom textures and models alike. (We also make a PvP pack too!) [1316/1842] | [Overlay Only]
 icon:sbbwPack.png
-version:v2.0
+version:v2.0.1
 tag:NULL
 req-optifine:TRUE
 req-NEU:TRUE
 connections:DISCORD^https://discord.com/invite/WpWUT2C
-download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/SBBW_Skyblock_Pack_V2.0_Overlay_Only.zip
-efn:SBBW_Skyblock_Pack_V2.0_Overlay_Only.zip
+download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/SBBW_Skyblock_Pack_V2.0.1_Overlay_Only.zip
+efn:SBBW_Skyblock_Pack_V2.0.1_Overlay_Only.zip
 
 name:Steinblock
 author:Steinente, EnteStein
@@ -290,7 +290,7 @@ name:Enchanted Book Overlays
 author:nightlibra
 description:Custom Vanilla-Style Enchanted Books for Hypixel Skyblock
 icon:skyblockEnchatedBooksOverlay.png
-version:v2
+version:v2.1
 tag:NULL
 req-optifine:TRUE
 req-NEU:FALSE
