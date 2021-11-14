@@ -1,25 +1,25 @@
 name:Furfsky Reborn
 author:Furfsky Reborn Team
 description:Continuation of the furfsky+ texture pack\ndiscord.gg/fsr
-icon:furfSkyFull1.4.png
+icon:fsr1.4.2fl.png
 version:v1.4.2
 tag:Full
 req-optifine:TRUE
 req-NEU:TRUE
 connections:DISCORD^https://discord.com/invite/fsr FORUM_PAGE^https://hypixel.net/threads/furfsky-reborn-1-3-1-voidgloom-twilight.4101579/ TWITTER^https://twitter.com/furfskyreborn WEB_PAGE^http://furfsky.net/
-download:http://furfsky.net/files/v1.4/%C2%A7r%C2%A7lFurfSky%20%C2%A76%C2%A7lReborn%20%C2%A78%C2%A7lFL%20%C2%A78%C2%A7l[%C2%A771.4%C2%A78%C2%A7l].zip
+download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/%C2%A72%C2%A7lFurf%C2%A7b%C2%A7lSky%20%C2%A75%C2%A7lReborn%20%C2%A78%C2%A7lFL%C2%A78%C2%A7l%5B%C2%A771.4.2%C2%A78%C2%A7l%5D.zip
 efn:§2§lFurf§b§lSky §5§lReborn §8§lFL§8§l[§71.4.2§8§l].zip
 
 name:Furfsky Reborn
 author:Furfsky Reborn Team
 description:Continuation of the furfsky+ texture pack\ndiscord.gg/fsr
-icon:furfSkyov1.4.png
+icon:fsr1.4.2ov.png
 version:v1.4.2
 tag:Overlay
 req-optifine:TRUE
 req-NEU:FALSE
 connections:DISCORD^https://discord.com/invite/fsr FORUM_PAGE^https://hypixel.net/threads/furfsky-reborn-1-3-1-voidgloom-twilight.4101579/ TWITTER^https://twitter.com/furfskyreborn WEB_PAGE^http://furfsky.net/
-download:http://furfsky.net/files/v1.4/%C2%A7r%C2%A7lFurfSky%20%C2%A76%C2%A7lReborn%20%C2%A78%C2%A7lOV%20%C2%A78%C2%A7l[%C2%A771.4%C2%A78%C2%A7l].zip
+download:https://github.com/BananaFructa/Apec-DATA/raw/main/TexturePackRegistry/ExceptedPacks/%C2%A72%C2%A7lFurf%C2%A7b%C2%A7lSky%20%C2%A75%C2%A7lReborn%20%C2%A78%C2%A7lFL%C2%A78%C2%A7l%5B%C2%A771.4.2%C2%A78%C2%A7l%5D.zip
 efn:§2§lFurf§b§lSky §5§lReborn §8§lOV §8§l[§71.4.2§8§l].zip
 
 name:Hypixel Skyblock Pack
