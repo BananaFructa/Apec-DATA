@@ -1,8 +1,8 @@
 name:Furfsky Reborn
 author:Furfsky Reborn Team
 description:Continuation of the furfsky+ texture pack\ndiscord.gg/fsr
-icon:fsr1.4.2fl.png
-version:v1.4.2
+icon:furf1.5fl.png
+version:v1.5
 tag:Full
 req-optifine:TRUE
 req-NEU:TRUE
@@ -13,8 +13,8 @@ efn:§2§lFurf§b§lSky §5§lReborn §8§lFL§8§l[§71.4.2§8§l].zip
 name:Furfsky Reborn
 author:Furfsky Reborn Team
 description:Continuation of the furfsky+ texture pack\ndiscord.gg/fsr
-icon:fsr1.4.2ov.png
-version:v1.4.2
+icon:furf1.5ov.png
+version:v1.5
 tag:Overlay
 req-optifine:TRUE
 req-NEU:FALSE
